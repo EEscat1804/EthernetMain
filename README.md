@@ -7,7 +7,7 @@
 - Shadcn
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 1) **Authentication System**: A robust authentication system ensuring security and user privacy
 
@@ -33,7 +33,7 @@
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -84,7 +84,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="snippets"> Snippets</a>
 
 <details>
 <summary><code>constants.index.ts</code></summary>
@@ -686,3 +686,5 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 ```
 
 </details>
+
+<img width="1275" alt="399533828-14e7f974-e844-458d-956a-074a6ada7494" src="https://github.com/user-attachments/assets/c1d656fc-b736-49dd-8622-4f747fd99939" />
